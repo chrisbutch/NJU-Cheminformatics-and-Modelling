@@ -42,13 +42,13 @@ Each week asks the same two questions of a new method: **what does it actually c
 ### Class 1 - (Sep 18): Levels of Theory and the Minimum Toolkit
 Molecular representations, RDKit, and chemical file formats — SMILES, SDF, PDB, protonation states, and what a "structure" actually is. Framing for the semester.
 
-- **Slides**: [View Slides]()
+- **Slides**: [View Slides](https://box.nju.edu.cn/f/aa8feb518b0a4572afc0/)
 - **Homework**: [Assignment 1 - Working with Chemical Descriptors](https://www.kaggle.com/code/chrisbutch/nju-cheminformatics-and-modelling-class-1)
-- **Required Reading**: Krenn et al. (Aspuru-Guzik group) [On Scientific Understanding with Artificial Intelligence] 
+- **Required Reading**: Krenn et al. (Aspuru-Guzik group) "On Scientific Understanding with Artificial Intelligence"  
   [Nature.com link](https://www.nature.com/articles/s42254-022-00518-3)   
   [NJU Download](https://box.nju.edu.cn/f/4c4d5196ff014c36af15/)  
 
-- **Suggested Reading**: Messeri and Crockett [Artificial intelligence and illusions of understanding in scientific research] 
+- **Suggested Reading**: Messeri and Crockett "Artificial intelligence and illusions of understanding in scientific research" 
   [Nature.com link](https://www.nature.com/articles/s41586-024-07146-0)   
   [NJU Download](https://box.nju.edu.cn/f/71f763a7a08046338a00/)  
 
