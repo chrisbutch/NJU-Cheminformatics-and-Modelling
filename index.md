@@ -11,9 +11,9 @@ header:
   alt: "Cheminformatics and Modelling"
 ---
 
-This is a crash course in the computational tools of structure-based drug design: conformational analysis, protein-ligand docking, molecular dynamics, free energy methods, and electronic structure calculation. It is built on a simple premise — in an era where machine learning can predict almost any property you ask it to, you still need physics-based tools to check what you are predicting.
+This is a crash course in the computational tools of structure-based drug design: conformational analysis, protein-ligand docking, molecular dynamics, free energy methods, and electronic structure calculation. In an era where machine learning can predict almost any property you ask it to, understanding requires physics-based tools to validate predictions.
 
-The argument is not that physics is better than machine learning. It is that the two fail in **different and uncorrelated ways**, and that is exactly what makes them useful together. A machine-learned model fails when a query falls outside its training distribution, and it fails silently — the prediction comes back with the same confidence either way. A force field fails when its parameters do not cover your chemistry. A docking score fails because it discards entropy and solvation. A tight-binding method fails where its approximations are known to break down. Those failures are things you can anticipate, and they are not the same failures the ML model is making.
+This is not a criticism of AI, but rather a necessity to shape your contribution as a researcher, as well as an understanding of the failure modes of both techniques. Machine learning and atomistic models fail in **different and uncorrelated ways**, and that is exactly what makes them useful together. A machine-learned model fails when a query falls outside its training distribution, and it fails silently — the prediction comes back with the same confidence either way. A force field fails when its parameters do not cover your chemistry. A docking score fails because it discards entropy and solvation. A tight-binding method fails where its approximations are known to break down. Those failures are things you can anticipate, and they are not the same failures the ML model is making.
 
 So when a model hands you a ranked list of a thousand compounds, you do not have to choose between believing it and ignoring it. You can take the top of the list, put it through a method whose assumptions you understand, and see whether the ranking survives. Where the two agree, you have something worth spending money on. Where they disagree, you have learned something about at least one of them. Every method in this course is cheap compared to synthesis and assay, and that is the point: **the purpose of these tools is to tell you what is worth committing real resources to.**
 
@@ -44,7 +44,13 @@ Molecular representations, RDKit, and chemical file formats — SMILES, SDF, PDB
 
 - **Slides**: [View Slides]()
 - **Homework**: [Assignment 1 - Working with Chemical Descriptors](https://www.kaggle.com/code/chrisbutch/nju-cheminformatics-and-modelling-class-1)
-- **Required Reading**: [Applied Chemoinformatics - Chapter 1](https://box.nju.edu.cn/f/cd371af3992a4c22b503/)
+- **Required Reading**: Krenn et al. (Aspuru-Guzik group) [On Scientific Understanding with Artificial Intelligence] 
+  [Nature.com link](https://www.nature.com/articles/s42254-022-00518-3)   
+  [NJU Download](https://box.nju.edu.cn/f/4c4d5196ff014c36af15/)  
+
+- **Suggested Reading**: Messeri and Crockett [Artificial intelligence and illusions of understanding in scientific research] 
+  [Nature.com link](https://www.nature.com/articles/s41586-024-07146-0)   
+  [NJU Download](https://box.nju.edu.cn/f/71f763a7a08046338a00/)  
 
 ### Class 2 - (Oct 9): Conformers and Force Fields
 Where molecular geometry comes from. Conformer generation, torsional sampling, force field functional forms, and how many conformers is enough.
