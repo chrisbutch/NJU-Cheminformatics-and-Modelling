@@ -1,0 +1,24 @@
+title: NJU-Cheminformatics-and-Modelling-Fall-2026
+url: "https://chrisbutch.github.io"
+baseurl: "/NJU-Cheminformatics-and-Modelling"
+ 
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "default"
+ 
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+ 
+# Page-wide defaults so every page gets a layout and the banner
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      classes: wide
+      show_title: false
+      header:
+        overlay_image: "/assets/banner.png"
+        overlay_filter: 0.15
+ 

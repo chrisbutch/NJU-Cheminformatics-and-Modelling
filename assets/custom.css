@@ -1,0 +1,8 @@
+#repo-banner {
+  display: none;
+}
+
+.header-caption {
+  font-size: 1.5em; /* Adjust the value to your preferred size */
+  font-weight: bold; /* Optional: Make the caption bold */
+}
