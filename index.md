@@ -55,6 +55,15 @@ Molecular representations, RDKit, and chemical file formats — SMILES, SDF, PDB
 ### Class 2 - (Oct 9): Conformers and Force Fields
 Where molecular geometry comes from. Conformer generation, torsional sampling, force field functional forms, and how many conformers is enough.
 
+- **Slides**: [View Slides](https://box.nju.edu.cn/f/c6dfe18f581141aaab9a/)
+- **Homework**: [Assignment 1 - Generating and Evaluating Molecular Conformers](https://www.kaggle.com/code/chrisbutch/nju-cheminformatics-and-modelling-class-2)
+- **Required Reading**: McNutt, Koes et al., “Conformer Generation for Structure-Based Drug Design: How Many and How Good?”
+  [ACS link](https://pubs.acs.org/jcisd8/article/63/21/6598/987873/Conformer-Generation-for-Structure-Based-Drug)   
+  [NJU Download](https://box.nju.edu.cn/f/aa1b7d57d4b64a8682a3/)  
+
+
+
+
 ### Class 3 - (Oct 16): Docking I — Scoring Functions
 What a docking score is made of, term by term, and why it is not a binding affinity.
 
