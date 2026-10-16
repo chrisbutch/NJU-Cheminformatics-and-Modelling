@@ -56,16 +56,19 @@ Molecular representations, RDKit, and chemical file formats — SMILES, SDF, PDB
 Where molecular geometry comes from. Conformer generation, torsional sampling, force field functional forms, and how many conformers is enough.
 
 - **Slides**: [View Slides](https://box.nju.edu.cn/f/c6dfe18f581141aaab9a/)
-- **Homework**: [Assignment 1 - Generating and Evaluating Molecular Conformers](https://www.kaggle.com/code/chrisbutch/nju-cheminformatics-and-modelling-class-2)
+- **Homework**: [Assignment 2 - Generating and Evaluating Molecular Conformers](https://www.kaggle.com/code/chrisbutch/nju-cheminformatics-and-modelling-class-2)
 - **Required Reading**: McNutt, Koes et al., “Conformer Generation for Structure-Based Drug Design: How Many and How Good?”
   [ACS link](https://pubs.acs.org/jcisd8/article/63/21/6598/987873/Conformer-Generation-for-Structure-Based-Drug)   
   [NJU Download](https://box.nju.edu.cn/f/aa1b7d57d4b64a8682a3/)  
 
-
-
-
 ### Class 3 - (Oct 16): Docking I — Scoring Functions
 What a docking score is made of, term by term, and why it is not a binding affinity.
+- **Slides**: [View Slides](https://box.nju.edu.cn/f/2303c3ac0ee946f99adf/)
+- **Homework**: [Assignment 3 - Generating and Evaluating Molecular Conformers](https://www.kaggle.com/code/chrisbutch/nju-cheminformatics-and-modelling-class-3)
+- **Required Reading**: Lyu et al., “Ultra-large library docking for discovering new chemotypes”
+  [Nature.com link](https://www.nature.com/articles/s41586-019-0917-9)   
+  [NJU Download](https://box.nju.edu.cn/f/ef18d58eb863480aba0f/)  
+
 
 ### Class 4 - (Oct 23): Docking II — Screening at Scale and Predicted Structures
 Enrichment, library preparation, pose validation, and fragment-based approaches. Docking into predicted structures, and why a static prediction may not give you the right rotamer.
