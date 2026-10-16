@@ -64,7 +64,7 @@ Where molecular geometry comes from. Conformer generation, torsional sampling, f
 ### Class 3 - (Oct 16): Docking I — Scoring Functions
 What a docking score is made of, term by term, and why it is not a binding affinity.
 - **Slides**: [View Slides](https://box.nju.edu.cn/f/2303c3ac0ee946f99adf/)
-- **Homework**: [Assignment 3 - Generating and Evaluating Molecular Conformers](https://www.kaggle.com/code/chrisbutch/nju-cheminformatics-and-modelling-class-3)
+- **Homework**: [Assignment 3 - Running a Docking Calculation and Validating Against the Crystal Structure](https://www.kaggle.com/code/chrisbutch/nju-cheminformatics-and-modelling-class-3)
 - **Required Reading**: Lyu et al., “Ultra-large library docking for discovering new chemotypes”
   [Nature.com link](https://www.nature.com/articles/s41586-019-0917-9)   
   [NJU Download](https://box.nju.edu.cn/f/ef18d58eb863480aba0f/)  
