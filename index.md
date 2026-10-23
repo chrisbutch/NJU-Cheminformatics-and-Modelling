@@ -70,11 +70,20 @@ What a docking score is made of, term by term, and why it is not a binding affin
   [NJU Download](https://box.nju.edu.cn/f/ef18d58eb863480aba0f/)  
 
 
-### Class 4 - (Oct 23): Docking II — Screening at Scale and Predicted Structures
-Enrichment, library preparation, pose validation, and fragment-based approaches. Docking into predicted structures, and why a static prediction may not give you the right rotamer.
+### Class 4  - (Oct 23): Molecular Dynamics I — Fundamentals
+Integrators, thermostats, periodic boundaries, and explicit solvation. 
+- **Slides**: [View Slides](https://box.nju.edu.cn/f/9204d28a4337485ba2e5/)
+- **Homework**: [Assignment 4 - Getting Started with Open MM](https://www.kaggle.com/code/chrisbutch/nju-cheminformatics-and-modelling-class-4)
+- **Required Reading**: Braun et al., “Best Practices for Foundations in Molecular Simulations”
+  [Journal link](https://livecomsjournal.org/index.php/livecoms/article/view/v1i1e5957)   
+  [NJU Download](https://box.nju.edu.cn/f/f1396a371fcd4ea38a17/)  
 
-### Class 5 - (Oct 30): Molecular Dynamics I — Fundamentals
-Integrators, thermostats, periodic boundaries, and explicit solvation. What flexibility costs.
+- **Suggested Reading**: Lindorff-Larsen et al., "Systematic Validation of Protein Force Fields against Experimental Data" 
+  [Journal link](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0032131)   
+  [NJU Download](https://box.nju.edu.cn/f/981d27cec0824c85b1ca/)  
+
+### Class 5 - (Oct 30): Docking II — Screening at Scale and Predicted Structures
+Enrichment, library preparation, pose validation, and fragment-based approaches. Docking into predicted structures, and why a static prediction may not give you the conformer.
 
 ### Class 6 - (Nov 13): Molecular Dynamics II — Running and Analyzing a System
 Trajectory analysis, convergence, and what you can and cannot conclude from a simulation of a given length.
